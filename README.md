@@ -166,3 +166,5 @@ Hotkey list:
 Emoji: &#127850;
 
     Markup : &#127850;
+
+652115018 Tanabadee Kraitong Thun!!! &#127850;
